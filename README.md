@@ -1,7 +1,7 @@
 # cloudclear
 
 
-![xxx](https://raw.githubusercontent.com/imran-parray/bugbounty_files/master/qqqq.png)
+![xxx](https://raw.githubusercontent.com/imran-parray/bugbounty_files/master/qqq.png)
 
 ## Intorduction
 
