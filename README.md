@@ -1,16 +1,20 @@
 # Cloudclear
 
 
-![xxx](https://raw.githubusercontent.com/imran-parray/bugbounty_files/master/qqq.png)
-
 ## Intorduction
 
-Cloudclear is an automation tool which takes a list domains as input and filters out all the domain which are protected under cloudflair and cloudfront.
+Cloudclear is an automated tool designed to receive a list of domains as input and then identify and remove all the domains that have cloudflair and cloudfront protection.
+
+
+
 
 
 ## Why
 
-Most of the subdomains running under cloudflair and cloudfront are completely protective against any most of recon techniques like dir busting, Port scanning, Vulneribility scanning etc. So i most prefer to focus on non cloudflair and non cloudfront domains at the beginning as they are more likely to be easy targets than others.
+A significant number of subdomains that operate under cloudflair and cloudfront are highly secure against various reconnaissance techniques such as directory busting, port scanning, vulnerability scanning, and more. Therefore, I tend to prioritize non-cloudflair and non-cloudfront domains initially, as they are more likely to be less secure and easier targets compared to their counterparts.
+
+
+
 
 ## How do it work
 
