@@ -53,4 +53,4 @@ atlantis.security.example.tf
 
 ---
 
-Fallow me on Twitter [https://twitter.com/imranparray101](https://twitter.com/imranparray101)
+Follow me on Twitter [https://twitter.com/imranparray101](https://twitter.com/imranparray101)
