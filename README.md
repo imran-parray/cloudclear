@@ -11,7 +11,7 @@ Cloudclear is an automated tool designed to receive a list of domains as input a
 
 ## Why
 
-A significant number of subdomains that operate under cloudflair and cloudfront are highly secure against various reconnaissance techniques such as directory busting, port scanning, vulnerability scanning, and more. Therefore, I tend to prioritize non-cloudflair and non-cloudfront domains initially, as they are more likely to be less secure and easier targets compared to their counterparts.
+While hunting bugs on wildcard target domains a significant number of subdomains that operate under cloudflair and cloudfront are foolproof against various reconnaissance techniques such as directory busting, port scanning, vulnerability scanning, and more. Therefore, I tend to prioritize non-cloudflair and non-cloudfront domains initially, as they are more likely to be less secure and easier targets compared to their counterparts.
 
 
 
