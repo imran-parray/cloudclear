@@ -26,7 +26,6 @@ A significant number of subdomains that operate under cloudflair and cloudfront 
 
 ## How to use it
 
-__Help__
 
 ```console
 python3 script.py -h
